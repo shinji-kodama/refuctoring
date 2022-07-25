@@ -1,0 +1,15 @@
+// ＭａｒｔｉｎＦｏｗｌｅｒ. リファクタリング 既存のコードを安全に改善する（第2版） (Japanese Edition) (Kindle の位置No.377-379). Kindle 版. 
+{
+  "hamlet": {
+    "name": "Hamlet",
+    "type": "tragedy"
+  },
+  "aslike": {
+    "name": "AsYouLikeIt",
+    "type": "comedy"
+  },
+  "othello": {
+    "name": "Othello",
+    "type": "tragedy"
+  }
+}
